@@ -2,10 +2,7 @@
   <div id="app">
       <h2>预祝0713java全体学生前程似锦</h2>
       <h2>预祝0713java全体学生统统月薪过万</h2>
-      <h2>预祝0713java全体学生统统月薪过两万</h2>
-      <h2>预祝0713java全体学生统统月薪过三万</h2>
-      <h2>预祝0713java全体学生统统年薪过三十万</h2>
-   <img src="http://img12.360buyimg.com/n1/s450x450_jfs/t1/142295/6/19866/63874/5fe4408eE401889c8/8f5c2b37676a2264.jpg"/>
+   <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201505%2F21%2F20150521094037_nwWCy.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1613039917&t=34c0f7d5507f2d526d2ae6d0f3d366b6"/>
   </div>
 </template>
 
